@@ -28,3 +28,13 @@ html {
   background: #44c8f5;
   color: white;
 }
+
+body {
+  max-width: 42em; /*komt van de font-size (16px) maal 42*/
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: top;
+}
